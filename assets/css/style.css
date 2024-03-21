@@ -91,3 +91,8 @@ h2.ricomida{
     padding-top: 41px;
     padding-bottom: 38px;
 }
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  

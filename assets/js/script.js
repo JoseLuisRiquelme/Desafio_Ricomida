@@ -3,4 +3,3 @@ $('#carouselExample').carousel({
     wrap: false, // Evitar el rebobinado del carrusel
     perPage: 4 // Mostrar 4 imágenes a la vez
   });
-  
