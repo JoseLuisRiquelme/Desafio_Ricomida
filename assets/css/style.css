@@ -1,0 +1,93 @@
+h2{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 37px;
+  }
+  
+.container-fluid{
+    background-color: #373A3C;
+}
+.nav-link {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  font-size: 16px;
+}
+hero-section{
+    display: flex;
+}
+p.recetas-relacionadas, h1{
+   font-family: "Cabin", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 700;
+   font-style: normal;
+   font-size: 40px;
+   color: #373A3C;
+}
+.porciones{
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #373A3C;
+}
+
+ul.masa, ul.salsa, ul.relleno, p.preparacion, p.masa, p.salsa, p.relleno{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #373A3C;
+    font-size: 20px;
+}
+div.newsletter{
+    background-color: #DC3545;
+    padding-top: 150px;
+    margin-top: 80px;
+}
+
+footer {
+background-color: #373A3C;
+}
+span{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 30px;
+}
+p.newsletter{
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 30px;
+}
+h3.newsletter{
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    color: white;
+    margin-top: 15.5px;
+}
+.newsletter .btn{
+    margin-bottom: 197px;
+    width: 233px;
+    height: 40px;
+}
+h2.ricomida{
+    padding-top: 41px;
+    padding-bottom: 38px;
+}
